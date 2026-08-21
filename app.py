@@ -214,8 +214,8 @@ with col_demo:
     if st.button("📋 Carregar Exemplo", type="secondary", help="Preenche com dados ficticios para demonstracao"):
         st.session_state.texto_bruto = """00/00/0000 - Parada 0\tEsconder
 Sao Paulo 
-Empresa Demonstracao LTDA
 
+Empresa Demonstracao LTDA
 Instalacao
 Download NF 99A9999999
 Download NF 99A9999999
