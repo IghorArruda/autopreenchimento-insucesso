@@ -213,7 +213,7 @@ with col_demo:
     st.markdown("<br>", unsafe_allow_html=True)
     if st.button("📋 Carregar Exemplo", type="secondary", help="Preenche com dados ficticios para demonstracao"):
         st.session_state.texto_bruto = """00/00/0000 - Parada 0\tEsconder
-Sao Paulo
+Sao Paulo 
 Empresa Demonstracao LTDA
 
 Instalacao
