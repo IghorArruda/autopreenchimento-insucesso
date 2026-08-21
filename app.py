@@ -212,7 +212,7 @@ with col_tipo:
 with col_demo:
     st.markdown("<br>", unsafe_allow_html=True)
     if st.button("📋 Carregar Exemplo", type="secondary", help="Preenche com dados ficticios para demonstracao"):
-        st.session_state.texto_bruto = """10/07/2026 - Parada 2\tEsconder
+        st.session_state.texto_bruto = """00/00/0000 - Parada 0\tEsconder
 Instalacao
 Empresa Demonstracao LTDA
 
@@ -222,7 +222,7 @@ Download NF 99A9999999
 Rua das Flores, 123 - Centro Sao Paulo SP
 Mapa
 Comentario:
-COMENTARIO AGENDAMENTO: LEVAR GABINETE
+COMENTARIO AGENDAMENTO: LEVAR ARMÁRIO
 Modelo: EQP-2000 PRO
 Chamado: 9999999
 SAP: 8888888
