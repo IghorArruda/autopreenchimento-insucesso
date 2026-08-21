@@ -227,7 +227,7 @@ Modelo: EQP-2000 PRO
 Chamado: 9999999
 SAP: 8888888
 ITENS: 99A9999999
-Territorio: BRN8RJTEC02
+Territorio: CENTRO
 Possui Telemetria: NAO."""
         st.session_state.solicitante = "Carlos Silva"
         st.session_state.motivo = "Cliente ausente no horario agendado. Aguardando reagendamento."
