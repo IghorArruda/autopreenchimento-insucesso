@@ -213,15 +213,15 @@ with col_demo:
     st.markdown("<br>", unsafe_allow_html=True)
     if st.button("📋 Carregar Exemplo", type="secondary", help="Preenche com dados ficticios para demonstracao"):
         st.session_state.texto_bruto = """00/00/0000 - Parada 0\tEsconder
-Instalacao
+Sao Paulo
 Empresa Demonstracao LTDA
 
-Sao Paulo
+Instalacao
 Download NF 99A9999999
 Download NF 99A9999999
 Rua das Flores, 123 - Centro Sao Paulo SP
 Mapa
-Comentario:
+Comentario: Nenhum
 COMENTARIO AGENDAMENTO: LEVAR ARMARIO
 Modelo: EQP-2000 PRO
 Chamado: 9999999
